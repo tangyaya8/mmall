@@ -1,0 +1,228 @@
+[16:33:54.978][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 39454 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[16:33:54.984][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[16:33:59.708][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.175 seconds (JVM running for 6.274)
+[16:36:04.882][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 39493 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[16:36:04.884][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[16:36:49.024][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 39509 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[16:36:49.026][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[16:36:53.327][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.621 seconds (JVM running for 5.474)
+[16:37:17.296][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-6] 开始上传文件,上传文件名为:20180919153130541_meitu_2.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.15771792127552033024.8080/upload,新文件名为：0509510c-977e-4d5c-8287-84d0513a878e..jpg
+[16:37:17.297][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-6] 开始连接FTP服务器
+[16:37:17.336][ERROR][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-6] 上传文件异常
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.commons.net.ftp.FTPClient._openDataConnection_(FTPClient.java:894)
+	at org.apache.commons.net.ftp.FTPClient._storeFile(FTPClient.java:633)
+	at org.apache.commons.net.ftp.FTPClient.__storeFile(FTPClient.java:624)
+	at org.apache.commons.net.ftp.FTPClient.storeFile(FTPClient.java:1976)
+	at com.tangyaya8.mmall.utils.FTPUtil.uploadFile(FTPUtil.java:55)
+	at com.tangyaya8.mmall.utils.FTPUtil.uploadFile(FTPUtil.java:40)
+	at com.tangyaya8.mmall.service.impl.ICommonServiceImpl.uploadFile(ICommonServiceImpl.java:46)
+	at com.tangyaya8.mmall.web.controller.CommonController.uploadFile(CommonController.java:28)
+	at com.tangyaya8.mmall.web.controller.CommonController$$FastClassBySpringCGLIB$$fde87c39.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.tangyaya8.mmall.web.controller.CommonController$$EnhancerBySpringCGLIB$$7d214319.uploadFile(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+[16:38:01.400][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 39529 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[16:38:01.403][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[16:38:06.179][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.213 seconds (JVM running for 6.493)
+[16:38:10.919][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:20180919153130541_meitu_2.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.15493674442643103539.8080/upload,新文件名为：3b61465c-b5a2-4c35-82a2-49378b6f5cff..jpg
+[16:38:10.920][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[16:50:03.093][ERROR][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 上传文件异常
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.commons.net.ftp.FTPClient._openDataConnection_(FTPClient.java:894)
+	at org.apache.commons.net.ftp.FTPClient._storeFile(FTPClient.java:633)
+	at org.apache.commons.net.ftp.FTPClient.__storeFile(FTPClient.java:624)
+	at org.apache.commons.net.ftp.FTPClient.storeFile(FTPClient.java:1976)
+	at com.tangyaya8.mmall.utils.FTPUtil.uploadFile(FTPUtil.java:55)
+	at com.tangyaya8.mmall.utils.FTPUtil.uploadFile(FTPUtil.java:40)
+	at com.tangyaya8.mmall.service.impl.ICommonServiceImpl.uploadFile(ICommonServiceImpl.java:46)
+	at com.tangyaya8.mmall.web.controller.CommonController.uploadFile(CommonController.java:28)
+	at com.tangyaya8.mmall.web.controller.CommonController$$FastClassBySpringCGLIB$$fde87c39.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:56)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.tangyaya8.mmall.web.controller.CommonController$$EnhancerBySpringCGLIB$$7bbb7107.uploadFile(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+[21:00:09.580][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53047 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:00:09.583][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:00:14.222][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.983 seconds (JVM running for 6.365)
+[21:00:31.253][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.4846182657805500520.8080/upload,新文件名为：3b723458-8d16-4283-b0a1-1c1ec8a91651..jpg
+[21:00:31.255][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:02:01.524][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53089 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:02:01.528][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:02:06.869][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.849 seconds (JVM running for 7.311)
+[21:02:27.363][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.2414534050466266728.8080/upload,新文件名为：215f3967-aef3-4490-b162-c9c114b1cb1d..jpg
+[21:02:27.367][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:05:03.367][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53124 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:05:03.370][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:05:08.078][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.192 seconds (JVM running for 6.131)
+[21:05:20.675][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.4457377200344191106.8080/upload,新文件名为：8aeaf635-fab6-48bb-b27a-0d10c6e00634..jpg
+[21:05:20.678][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:07:43.838][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53172 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:07:43.846][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:07:48.725][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.302 seconds (JVM running for 6.386)
+[21:07:59.199][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.10261928644161062644.8080/upload,新文件名为：7b3da2be-86ef-4d51-bad4-44542f561d98..jpg
+[21:07:59.200][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:08:58.262][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-5] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.10261928644161062644.8080/upload,新文件名为：9b48bd3f-2afe-440b-bdb8-7b57c22aab22..jpg
+[21:08:58.277][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-5] 开始连接FTP服务器
+[21:23:01.368][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-9] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.10261928644161062644.8080/upload,新文件名为：71858bc2-a81f-482a-a33a-88df1617d4d9..jpg
+[21:23:01.370][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-9] 开始连接FTP服务器
+[21:26:00.377][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53487 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:26:00.380][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:26:05.038][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.237 seconds (JVM running for 6.421)
+[21:26:26.322][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.14461495497886716417.8080/upload,新文件名为：6284eef3-6775-4d68-bc60-fec0d8bfc7d7..jpg
+[21:26:26.324][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:26:26.352][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接ftp服务器,结束上传,上传结果:{}
+[21:28:55.226][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53534 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:28:55.229][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:28:59.875][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.102 seconds (JVM running for 6.255)
+[21:29:10.556][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.2933601638164624564.8080/upload,新文件名为：0e6fe316-f2ae-4477-927a-edded08dce43..jpg
+[21:29:10.557][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:29:10.577][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接ftp服务器,结束上传,上传结果:{}
+[21:51:44.606][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53811 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:51:44.609][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:51:48.972][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.776 seconds (JVM running for 5.775)
+[21:51:58.345][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.6474628617564518328.8080/upload,新文件名为：52dade57-c88e-448f-b18d-849ed91ec893..jpg
+[21:51:58.347][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:51:58.367][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接ftp服务器,结束上传,上传结果:{}
+[21:52:43.023][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 53833 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:52:43.026][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[21:52:47.530][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.918 seconds (JVM running for 6.162)
+[21:52:51.049][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-2] 开始上传文件,上传文件名为:64EBD924F413DBCDFB0F40C967DDE776.jpg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.10987733784252551365.8080/upload,新文件名为：fd06bb71-4fc8-4540-bc57-819e30a323d0..jpg
+[21:52:51.051][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接FTP服务器
+[21:52:51.077][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-2] 开始连接ftp服务器,结束上传,上传结果:{}
+[22:05:36.353][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 54040 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[22:05:36.356][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[22:05:41.292][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.377 seconds (JVM running for 6.699)
+[22:06:08.966][INFO][c.t.m.service.impl.ICommonServiceImpl][http-nio-8080-exec-3] 开始上传文件,上传文件名为:126259680.svg,上传路径为:/private/var/folders/tg/_lp5r3j13pv2vndnl_bq07600000gn/T/tomcat-docbase.520786190453681254.8080/upload,新文件名为：45c2a3c7-3dc0-40eb-a271-97b48fca53d2..svg
+[22:06:14.942][INFO][com.tangyaya8.mmall.utils.FTPUtil][http-nio-8080-exec-3] 开始连接FTP服务器

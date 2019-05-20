@@ -1,0 +1,123 @@
+[08:38:16.092][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 21703 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[08:38:16.095][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[08:38:19.703][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.964 seconds (JVM running for 5.024)
+[08:46:10.621][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 21770 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[08:46:10.625][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[08:46:13.796][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.481 seconds (JVM running for 4.352)
+[10:26:04.799][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22468 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[10:26:04.802][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[10:26:08.550][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.109 seconds (JVM running for 5.058)
+[10:27:09.259][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-1] java.util.NoSuchElementException: No value present
+[10:27:48.896][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22489 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[10:27:48.899][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[10:27:52.642][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.229 seconds (JVM running for 5.564)
+[10:28:05.845][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-1] org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported
+[10:28:21.921][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-3] org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported
+[10:32:07.862][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-8] java.util.NoSuchElementException: No value present
+[10:43:58.176][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22618 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[10:43:58.179][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[10:44:01.813][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.981 seconds (JVM running for 5.129)
+[11:05:37.133][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22811 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[11:05:37.135][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[11:05:40.539][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.847 seconds (JVM running for 4.734)
+[11:06:08.661][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22820 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[11:06:08.663][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[11:06:12.673][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.337 seconds (JVM running for 5.36)
+[11:08:06.927][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22838 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[11:08:06.929][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[11:08:09.998][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.4 seconds (JVM running for 4.204)
+[11:08:14.123][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-1] java.util.NoSuchElementException: No value present
+[11:10:33.731][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22865 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[11:10:33.734][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[11:10:37.542][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.251 seconds (JVM running for 5.427)
+[11:23:04.219][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22967 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[11:23:04.221][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[11:23:07.335][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.429 seconds (JVM running for 4.53)
+[11:23:13.531][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-1] org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+[11:23:50.309][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 22978 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[11:23:50.311][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[11:23:53.490][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.522 seconds (JVM running for 4.413)
+[11:23:57.822][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-1] org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+[11:29:05.610][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 23023 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[11:29:05.613][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[11:29:08.992][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.768 seconds (JVM running for 4.775)
+[11:29:12.134][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-2] org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+[17:22:47.251][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23800 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:22:47.252][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:22:52.592][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 6.011 seconds (JVM running for 7.53)
+[17:23:26.635][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23815 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:23:26.636][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:23:30.873][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 4.755 seconds (JVM running for 5.829)
+[17:24:35.267][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23826 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:24:35.268][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:24:39.990][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 5.253 seconds (JVM running for 6.413)
+[17:25:23.709][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23836 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:25:23.710][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:25:29.214][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 5.953 seconds (JVM running for 7.835)
+[17:31:06.592][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23883 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:31:06.594][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:31:12.295][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 6.205 seconds (JVM running for 7.793)
+[17:35:17.385][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23923 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:35:17.387][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:35:23.420][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 6.6 seconds (JVM running for 8.059)
+[17:36:28.041][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23937 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:36:28.043][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:36:33.727][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 6.303 seconds (JVM running for 7.768)
+[17:38:45.266][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23961 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:38:45.267][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:38:50.141][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 5.422 seconds (JVM running for 6.661)
+[17:39:41.901][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Starting CategoryServiceImplTest on tangxuejundeMacBook-Pro.local with PID 23972 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:39:41.903][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:39:46.695][INFO][c.t.m.s.impl.CategoryServiceImplTest][main] Started CategoryServiceImplTest in 5.29 seconds (JVM running for 6.425)
+[18:02:33.339][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24152 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:02:33.341][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[18:02:36.598][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.645 seconds (JVM running for 4.565)
+[18:07:08.442][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24195 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:07:08.443][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[18:07:11.581][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.443 seconds (JVM running for 4.456)
+[18:59:47.994][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-7] com.tangyaya8.mmall.exception.MallException: 品类不存在
+[19:01:01.503][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24243 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:01:01.505][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:01:04.803][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.626 seconds (JVM running for 4.675)
+[19:01:11.927][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-1] com.tangyaya8.mmall.exception.MallException: 品类不存在
+[19:24:43.147][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24439 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:24:43.152][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:24:47.482][INFO][com.tangyaya8.mmall.Application][main] Started Application in 5.059 seconds (JVM running for 6.168)
+[19:25:00.088][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-2] java.lang.ClassCastException: class java.lang.String cannot be cast to class com.tangyaya8.mmall.common.Resp (java.lang.String is in module java.base of loader 'bootstrap'; com.tangyaya8.mmall.common.Resp is in unnamed module of loader 'app')
+[19:26:31.839][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24460 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:26:31.843][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:26:36.078][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.915 seconds (JVM running for 6.034)
+[19:33:16.359][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24523 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:33:16.362][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:33:50.575][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24533 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:33:50.577][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:33:54.459][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.231 seconds (JVM running for 5.267)
+[19:35:10.181][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24546 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:35:10.184][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:35:14.406][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.692 seconds (JVM running for 5.739)
+[19:37:25.623][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24578 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:37:25.626][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:37:29.512][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.305 seconds (JVM running for 5.203)
+[19:39:09.061][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24594 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:39:09.065][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:39:13.144][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.469 seconds (JVM running for 5.547)
+[19:39:57.000][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24605 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:39:57.002][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:40:00.686][INFO][com.tangyaya8.mmall.Application][main] Started Application in 3.999 seconds (JVM running for 4.771)
+[19:40:03.401][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-2] com.tangyaya8.mmall.exception.MallException: id 不正确
+[19:40:38.063][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24619 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:40:38.068][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:40:42.438][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.766 seconds (JVM running for 5.706)
+[19:41:47.155][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-2] com.tangyaya8.mmall.exception.MallException: id 不正确
+[19:41:53.917][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24632 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:41:53.920][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:41:58.234][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.744 seconds (JVM running for 5.828)
+[19:42:06.842][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-2] com.tangyaya8.mmall.exception.MallException: id 不正确
+[19:43:36.720][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24649 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:43:36.723][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:43:40.679][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.328 seconds (JVM running for 5.327)
+[19:43:58.600][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-1] com.tangyaya8.mmall.exception.MallException: id 不正确
+[19:45:15.441][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-5] com.tangyaya8.mmall.exception.MallException: id 不正确
+[19:46:13.223][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 24681 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[19:46:13.225][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[19:46:16.896][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.002 seconds (JVM running for 4.978)

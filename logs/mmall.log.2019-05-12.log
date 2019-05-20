@@ -1,0 +1,137 @@
+[09:59:39.145][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 25838 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[09:59:39.152][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[09:59:43.666][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.985 seconds (JVM running for 6.387)
+[10:02:31.730][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 25861 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[10:02:31.732][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[10:02:35.917][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.711 seconds (JVM running for 6.067)
+[10:02:47.415][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-3] org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported
+[10:12:20.391][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 25955 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[10:12:20.406][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[10:12:24.707][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.939 seconds (JVM running for 6.005)
+[10:13:39.996][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 25969 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[10:13:39.999][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[10:13:50.405][INFO][com.tangyaya8.mmall.Application][main] Started Application in 10.79 seconds (JVM running for 12.139)
+[10:14:02.984][ERROR][c.t.mmall.handler.MallExceptionHandler][http-nio-8080-exec-3] org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+[15:53:09.320][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 27144 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[15:53:09.322][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[15:53:15.008][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.417 seconds (JVM running for 7.701)
+[15:55:34.102][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 27166 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[15:55:34.104][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[15:57:12.767][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 27184 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[15:57:12.769][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[15:57:50.498][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 27193 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[15:57:50.500][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[16:04:39.598][INFO][com.tangyaya8.mmall.Application][main] Starting Application on tangxuejundeMacBook-Pro.local with PID 27261 (/Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall/target/classes started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[16:04:39.600][INFO][com.tangyaya8.mmall.Application][main] No active profile set, falling back to default profiles: default
+[16:04:43.555][INFO][com.tangyaya8.mmall.Application][main] Started Application in 4.315 seconds (JVM running for 5.112)
+[16:05:09.138][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 27269 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[16:05:09.141][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[16:05:13.804][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 5.155 seconds (JVM running for 6.426)
+[16:06:41.161][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 27284 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[16:06:41.162][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[16:06:46.600][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.057 seconds (JVM running for 7.188)
+[17:23:23.725][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 27979 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:23:23.727][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:23:29.398][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.248 seconds (JVM running for 7.64)
+[17:26:50.928][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28009 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:26:50.930][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:26:57.064][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.859 seconds (JVM running for 8.127)
+[17:30:04.892][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28044 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:30:04.895][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:30:11.101][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.914 seconds (JVM running for 9.738)
+[17:30:56.919][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28056 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:30:56.920][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:31:01.780][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.358 seconds (JVM running for 6.584)
+[17:34:19.441][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28084 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:34:19.442][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:34:25.004][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.181 seconds (JVM running for 7.642)
+[17:36:01.006][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28102 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:36:01.007][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:36:05.845][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.309 seconds (JVM running for 6.575)
+[17:36:22.008][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28108 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:36:22.009][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:36:27.002][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.495 seconds (JVM running for 6.703)
+[17:36:55.280][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28117 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:36:55.281][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:37:00.083][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.281 seconds (JVM running for 6.472)
+[17:37:15.651][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28123 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:37:15.652][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:37:20.572][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.464 seconds (JVM running for 6.624)
+[17:37:32.730][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28129 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:37:32.732][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:37:37.580][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.339 seconds (JVM running for 6.506)
+[17:38:01.609][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28139 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:38:01.610][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:38:06.548][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.472 seconds (JVM running for 6.65)
+[17:39:08.423][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28151 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:39:08.424][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:39:13.121][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.327 seconds (JVM running for 6.494)
+[17:56:47.993][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28291 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[17:56:47.995][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[17:56:53.734][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.18 seconds (JVM running for 7.586)
+[18:09:54.036][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28433 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:09:54.038][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:17:20.351][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28520 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:17:20.352][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:21:02.741][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28557 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:21:02.742][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:21:23.996][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28565 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:21:23.997][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:21:29.588][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.072 seconds (JVM running for 7.241)
+[18:22:16.059][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28575 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:22:16.060][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:22:21.982][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.299 seconds (JVM running for 7.435)
+[18:22:44.584][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28583 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:22:44.585][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:22:50.066][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.006 seconds (JVM running for 7.16)
+[18:24:41.695][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28603 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:24:41.696][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:24:47.167][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 5.975 seconds (JVM running for 7.184)
+[18:29:03.116][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28640 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:29:03.127][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:29:08.885][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.435 seconds (JVM running for 7.965)
+[18:29:35.155][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28647 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:29:35.156][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:29:40.897][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.25 seconds (JVM running for 7.423)
+[18:30:23.074][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28665 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:30:23.076][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:30:28.600][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.102 seconds (JVM running for 7.262)
+[18:31:39.550][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28684 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:31:39.553][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:31:45.411][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.555 seconds (JVM running for 7.865)
+[18:33:52.271][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28704 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:33:52.272][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:33:58.029][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.266 seconds (JVM running for 7.475)
+[18:35:00.581][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28718 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:35:00.583][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:35:06.193][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.175 seconds (JVM running for 7.62)
+[18:35:27.378][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28727 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:35:27.382][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:35:33.486][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.961 seconds (JVM running for 8.266)
+[18:37:18.714][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28749 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:37:18.715][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:37:24.313][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.236 seconds (JVM running for 7.431)
+[18:38:57.496][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Starting OrderServiceImplTest on tangxuejundeMacBook-Pro.local with PID 28764 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:38:57.499][INFO][c.t.m.service.impl.OrderServiceImplTest][main] No active profile set, falling back to default profiles: default
+[18:39:03.064][INFO][c.t.m.service.impl.OrderServiceImplTest][main] Started OrderServiceImplTest in 6.17 seconds (JVM running for 7.535)
+[18:40:59.166][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 28785 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:40:59.168][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[18:41:04.797][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.273 seconds (JVM running for 7.416)
+[18:41:21.821][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 28790 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:41:21.822][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[18:41:27.165][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 5.745 seconds (JVM running for 6.924)
+[18:43:08.360][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 28811 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:43:08.361][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[18:43:14.283][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.585 seconds (JVM running for 7.685)
+[18:43:40.201][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 28818 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[18:43:40.202][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[18:43:46.041][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.367 seconds (JVM running for 7.546)
+[21:10:40.912][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 28893 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:10:40.914][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[21:10:46.915][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.712 seconds (JVM running for 7.916)
+[21:11:32.757][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 28903 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:11:32.758][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[21:11:38.559][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.256 seconds (JVM running for 7.459)
+[21:12:41.000][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Starting OrderRepositoryTest on tangxuejundeMacBook-Pro.local with PID 28984 (started by tangxuejun in /Users/tangxuejun/Documents/IJworkspace/PersonalProject/mmall)
+[21:12:41.000][INFO][c.t.mmall.repository.OrderRepositoryTest][main] No active profile set, falling back to default profiles: default
+[21:12:46.680][INFO][c.t.mmall.repository.OrderRepositoryTest][main] Started OrderRepositoryTest in 6.906 seconds (JVM running for 8.184)
